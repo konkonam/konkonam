@@ -16,4 +16,4 @@ export const favorites: Record<'languages' | 'frameworks' | 'technologies', stri
 }
 ```
 
-
+The above are just a few of my go-to tools and languages. I've had the pleasure of working with and exploring many more. Always curious, always learning. 🌱
