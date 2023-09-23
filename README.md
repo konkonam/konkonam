@@ -1,6 +1,6 @@
 ### Sup people 👋
 
-Currently, I'm a professional diving deep into e-commerce, harnessing the power of Symfony, Vue, and React, but when I'm on a personal coding spree, you'll find me getting cozy with TypeScript 😍.
+Currently, I'm a professional diving deep into e-commerce, harnessing the power of Symfony, Vue, and React. On a personal coding spree, however, you'll find me getting cozy with TypeScript 😍.
 
 ```typescript
 export const favorites: Record<'languages' | 'frameworks' | 'tools', string[]> = {
