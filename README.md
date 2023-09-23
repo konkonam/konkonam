@@ -9,10 +9,10 @@ When I'm on a personal coding spree, you'll find me getting cozy with TypeScript
 ## Tech stack and favorites
 
 ```typescript
-export const favorites: Record<'languages' | 'frameworks' | 'technologies', string[]> = {
+export const favorites: Record<'languages' | 'frameworks' | 'tools', string[]> = {
     languages: [ 'C++', 'Python', 'TypeScript', 'HTML', 'CSS', 'PHP' ],
     frameworks: [ 'Stacks', 'Next', 'Nuxt', 'Symfony', 'Flask', 'tailwind' ],
-    technologies: [ 'Docker', 'Git', 'JetBrains', 'VSCode' ],
+    tools: [ 'Docker', 'Git', 'JetBrains', 'VSCode' ],
 }
 ```
 
