@@ -1,7 +1,17 @@
 ### Sup people 👋
 
-I am a programming enthusiast and love to learn in general. :heart:
+I'm a programming enthusiast with an insatiable hunger for learning. ❤️ I kick-started my journey with C++, which paved my way to the mesmerizing world of web technologies.
 
-Currently working professional on e-commerce stuff with symfony / vue / react.
+Currently, I'm a professional diving deep into e-commerce, harnessing the power of Symfony, Vue, and React.
 
-My personal projects are mainly written in typescript :heart_eyes:, but i mostly enjoy tinkering around and trying a lot of different frameworks and projects.
+When I'm on a personal coding spree, you'll find me getting cozy with TypeScript 😍. But what truly excites me is experimenting with a plethora of frameworks and embarking on diverse projects.
+
+## Tech stack and favorites
+
+```typescript
+export const favorites: Record<'languages' | 'frameworks' | 'technologies', string[]> = {
+    languages: [ 'C++', 'python', 'typescript', 'html/css', 'php' ],
+    frameworks: [ 'stacks', 'next', 'nuxt', 'symfony', 'flask' ],
+    others: [ 'docker', 'git', 'jetbrains', 'vscode' ],
+}
+```
