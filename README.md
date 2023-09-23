@@ -2,8 +2,6 @@
 
 Currently, I'm a professional diving deep into e-commerce, harnessing the power of Symfony, Vue, and React, but when I'm on a personal coding spree, you'll find me getting cozy with TypeScript 😍.
 
-## Tech stack and favorites
-
 ```typescript
 export const favorites: Record<'languages' | 'frameworks' | 'tools', string[]> = {
     languages: [ 'C++', 'Python', 'TypeScript', 'HTML', 'CSS', 'PHP' ],
