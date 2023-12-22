@@ -4,7 +4,7 @@ Currently, I'm a professional diving deep into e-commerce, harnessing the power 
 
 ```typescript
 export const favorites: Record<'languages' | 'frameworks' | 'tools', string[]> = {
-    languages: [ 'C++', 'Python', 'TypeScript', 'HTML', 'CSS', 'PHP' ],
+    languages: [ 'C++', 'rust', 'Python', 'TypeScript', 'HTML', 'CSS', 'PHP' ],
     frameworks: [ 'Stacks', 'Next', 'Nuxt', 'Symfony', 'Flask', 'tailwind' ],
     tools: [ 'Docker', 'Git', 'JetBrains', 'VSCode' ],
 }
